@@ -1,0 +1,10 @@
+Rule 1:
+bad_sentences - 841 - 8.410%
+neutral_sentences - 7212 - 72.120%
+good_sentences - 1947 - 19.470%
+
+Rule 2:
+bad_sentences - 2298 - 22.980%
+neutral_sentences - 3603 - 36.030%
+good_sentences - 4099 - 40.990%
+
