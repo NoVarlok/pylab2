@@ -1,7 +1,7 @@
 Rule 1:
-bad_sentences - 2298 - 22.980%
-neutral_sentences - 3603 - 36.030%
-good_sentences - 4099 - 40.990%
+bad_sentences - 2303 - 23.030%
+neutral_sentences - 3581 - 35.810%
+good_sentences - 4116 - 41.160%
 
 Rule 2:
 bad_sentences - 242 - 2.420%
@@ -9,12 +9,12 @@ neutral_sentences - 9476 - 94.760%
 good_sentences - 282 - 2.820%
 
 Rule 3:
-bad_sentences - 1071 - 10.710%
-neutral_sentences - 6086 - 60.860%
-good_sentences - 2843 - 28.430%
+bad_sentences - 1078 - 10.780%
+neutral_sentences - 6073 - 60.730%
+good_sentences - 2849 - 28.490%
 
 Rule 4:
-bad_sentences - 1123 - 11.230%
-neutral_sentences - 5881 - 58.810%
-good_sentences - 2996 - 29.960%
+bad_sentences - 1129 - 11.290%
+neutral_sentences - 5872 - 58.720%
+good_sentences - 2999 - 29.990%
 
